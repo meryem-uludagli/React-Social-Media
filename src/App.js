@@ -1,9 +1,14 @@
 import Home from "./pages/home/Home";
-import { FaHome } from "react-icons/fa";
+import Profile from "./pages/profile/Profile";
+import Login from "./pages/login/Login";
 function App() {
-  return;
-  <Home />;
-  <FaHome />;
+  return (
+    <>
+      <Home />
+      <Profile />
+      <Login />
+    </>
+  );
 }
 
 export default App;
