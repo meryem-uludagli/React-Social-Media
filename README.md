@@ -1,3 +1,15 @@
+# 📲 Social Media Platform
+
+This is a social media web application developed using React. The app includes the following features:
+
+Login Page: Secure authentication system for users.
+Profile Page: Displays user information and activity.
+Homepage: Shows a feed of posts from friends and online connections, along with options to interact (like, comment, share, etc.).
+
+# 📸 Preview
+
+![](./public/assets/video.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # React-Social-Media
